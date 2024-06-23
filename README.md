@@ -3,10 +3,6 @@
 This script allows you to download videos from YouTube or YouTube Shorts using `yt_dlp`.
 ![Youtube Cover](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg)
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-![yt-dlp Logo](https://github.com/yt-dlp/yt-dlp/blob/master/devscripts/logo.ico)
-
 #### Features
 - Download video or audio only
 - Specify download format
@@ -118,3 +114,6 @@ download_video(video_url, format='best', directory='my_videos', audio_only=False
 ```
 
 This example downloads the video in the best available format, saves it in the `my_videos` directory, and limits the quality to 720p.
+
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![yt-dlp Logo](https://github.com/yt-dlp/yt-dlp/blob/master/devscripts/logo.ico)
