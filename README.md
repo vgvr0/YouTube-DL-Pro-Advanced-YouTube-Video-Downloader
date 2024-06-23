@@ -4,6 +4,7 @@ This script allows you to download videos from YouTube or YouTube Shorts using `
 ![Youtube Cover](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg)
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 ![yt-dlp Logo](https://github.com/yt-dlp/yt-dlp/blob/master/devscripts/logo.ico)
 
 #### Features
