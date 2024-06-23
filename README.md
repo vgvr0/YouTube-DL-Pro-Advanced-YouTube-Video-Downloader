@@ -1,7 +1,7 @@
 ### YouTube Video Downloader
 
 This script allows you to download videos from YouTube or YouTube Shorts using `yt_dlp`.
-![Youtube Cover]([LogoMercadona.png](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg))
+![Youtube Cover](LogoMercadona.png](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg)
 
 #### Features
 - Download video or audio only
